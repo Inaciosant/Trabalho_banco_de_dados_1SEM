@@ -86,6 +86,8 @@ Relacionamento entre pedidos e produtos (um pedido inclui vários produtos).
 
 <h1>Modelagem Conceitual: </h1>
 <img src="Sports Zone.drawio.png">
+<h1>Modelagem Logica</h1>
+<img src="Logico.jpg">
 
 
 
