@@ -85,9 +85,9 @@ Relacionamento entre cliente e pedidos (um cliente fez vários pedidos) e entre 
 Relacionamento entre pedidos e produtos (um pedido inclui vários produtos).
 
 <h1>Modelagem Conceitual: </h1>
-<img src="Sports Zone.drawio.png">
+<img src="modelocon.jpg">
 <h1>Modelagem Logica</h1>
-<img src="Logico.jpg">
+<img src="Sports Zone_page-0001.jpg">
 
 
 
