@@ -2,6 +2,8 @@
 
 A empresa SportsZone, especializada na venda de artigos esportivos, enfrenta um aumento significativo em sua clientela e deseja implementar um sistema de gerenciamento abrangente para melhorar sua eficiência operacional e atender às necessidades crescentes dos clientes. Este sistema incluirá entidades, atributos e relacionamentos necessários para gerenciar produtos, clientes, pedidos, fornecedores e funcionários.
 
+# CENARIOS
+
  # 🚀 Entidades: 
 ## Produto:  
   ### Atributos:
