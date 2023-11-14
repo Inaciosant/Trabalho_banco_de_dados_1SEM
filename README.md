@@ -94,7 +94,49 @@ Relacionamento entre pedidos e produtos (um pedido inclui vários produtos).
 Foi usado SQL Server
 
 
-#Tabela funcionarios
+# Tabela funcionarios
+
+<img src='funcionario-tb.jpg'>
+
+# Tabela cliente
+
+<img src = 'cliente-tb.jpg'>
+
+## e-mail cliente
+
+<img src = 'email-cli.jpg'>
+
+## telefone cliente
+
+<img src = 'telefone-cli.jpg'>
+
+# Tabela Fornecedor
+
+<img src = 'fornecedor-tb.jpg'>
+
+## Telefone fornecedor
+
+<img src = 'telefone_fornecedor.jpg'>
+
+
+## e-mail fornecedor
+
+<img src = 'email_fornecedor.jpg'>
+
+# Tabela pedido
+
+<img src = 'pedido-tb.jpg'>
+
+# Tabela Produto
+
+<img src = 'produto-tb.jpg'>
+
+
+
+
+
+
+
 
 
 
