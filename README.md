@@ -93,6 +93,7 @@ Relacionamento entre pedidos e produtos (um pedido inclui vários produtos).
 
 Foi usado SQL Server
 
+# Dados
 
 # Tabela funcionarios
 
@@ -131,8 +132,37 @@ Foi usado SQL Server
 
 <img src = 'produto-tb.jpg'>
 
+# Relatorios
 
+### 1
+<img src = '1.jpg'>
 
+### 2
+<img src = '2.jpg'>
+
+### 3
+<img src = '3.jpg'>
+
+### 4
+<img src = '4.jpg'>
+
+### 5
+<img src = '5.jpg'>
+
+### 6
+<img src = '6.jpg'>
+
+### 7
+<img src = '7.jpg'>
+
+### 8
+<img src = '8.jpg'>
+
+### 9
+<img src = '9.jpg'>
+
+### 10
+<img src = '10.jpg'>
 
 
 
