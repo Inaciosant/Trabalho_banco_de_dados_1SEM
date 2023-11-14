@@ -89,6 +89,13 @@ Relacionamento entre pedidos e produtos (um pedido inclui vários produtos).
 <h1>Modelagem Logica</h1>
 <img src="Sports Zone_page-0001.jpg">
 
+# Modelagem fisica
+
+Foi usado SQL Server
+
+
+
+
 
 
  
