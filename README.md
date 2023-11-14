@@ -94,6 +94,10 @@ Relacionamento entre pedidos e produtos (um pedido inclui vários produtos).
 Foi usado SQL Server
 
 
+#Tabela funcionarios
+
+
+
 
 
 
